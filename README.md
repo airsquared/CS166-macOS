@@ -30,6 +30,8 @@ brew install utm
 5. Once it finishes, you can start the VM and use it as you would with VirtualBox.
 
 # Installing an Ubuntu VM
+(used only for buffer overflow lab)
+
 Click the first link to automatically open the UTM app and start downloading the virtual machine, or the manual download link if the first one doesn't work. (~1.4GB)
  - On Apple Silicon Mac: [one-click install](https://intradeus.github.io/http-protocol-redirector?r=utm://downloadVM?url=https%3A%2F%2Fgithub.com%2Fairsquared%2FCS166-macOS%2Freleases%2Fdownload%2Futm%2FUbuntu.22.04.arm64.utm.zip) or [manual download](https://github.com/airsquared/CS166-macOS/releases/download/utm/Ubuntu.22.04.arm64.utm.zip)
  - On Intel Mac: [one-click install](https://intradeus.github.io/http-protocol-redirector?r=utm://downloadVM?url=https%3A%2F%2Fgithub.com%2Fairsquared%2FCS166-macOS%2Freleases%2Fdownload%2Futm%2FUbuntu.22.04.Intel.utm.zip) or [manual download](https://github.com/airsquared/CS166-macOS/releases/download/utm/Ubuntu.22.04.Intel.utm.zip)
