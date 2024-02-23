@@ -8,7 +8,9 @@ If you haven't already:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 3. Follow the prompts shown in the terminal to complete the installation including adding to path if necessary.
-4. Quit Terminal and reopen it.
+  - If you are asked to enter a password, you won't be able to see the characters as you type. Press enter when you are done typing your password.
+  - After completion, you may be asked to run commands in your terminal to add Homebrew to PATH. Copy those commands exactly and run them.
+5. Quit Terminal and reopen it.
 
 # Installing software
 1. To install the software that's normally available in SEEDUbuntu, run the following command in terminal:
@@ -53,3 +55,4 @@ brew autoremove
 Uninstalling Homebrew: (follow the prompts)
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"
+```
