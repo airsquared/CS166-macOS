@@ -24,7 +24,7 @@ brew install openssl@3 john python@3.11 ghex && brew install --cask -f wireshark
 # Installing Metasploitable 2 VM
 1. Install UTM with:
 ```
-brew install utm
+brew install -f utm
 ```
 2. Open the installed UTM app from `/Applications` folder.
 3. Click [this link](https://intradeus.github.io/http-protocol-redirector?r=utm://downloadVM?url=https%3A%2F%2Fgithub.com%2Fairsquared%2FCS166-macOS%2Freleases%2Fdownload%2Futm%2FMetasploitable.utm.zip) to automatically open the UTM app and start downloading the (~1GB) virtual machine.
